@@ -1,0 +1,9 @@
+km = float(input("Masukkan jarak dengan kilometer: "))
+
+m = km * 1000
+cm = km * 100000
+ml = km * 0.621371
+
+print("M:", m)
+print("Cm:", cm)
+print("Ml:", ml)
